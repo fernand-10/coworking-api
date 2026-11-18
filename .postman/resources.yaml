@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 4a1e88f6-f5bf-405c-83df-0721cc194bad
+
+localResources:
+  collections:
+    - ../coworking-api/postman/Coworking_API.postman_collection.json
